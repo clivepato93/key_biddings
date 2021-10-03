@@ -4,4 +4,4 @@ useful key combos that I may forget when using a windows keyboard on MAC :P
 
  # Alt + 3
 
- Emoji Keyboard Ctrl + Alt + Space
+ Emoji Keyboard Ctrl + Cmd + Space
